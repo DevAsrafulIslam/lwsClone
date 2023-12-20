@@ -20,7 +20,7 @@ const Navbar = () => {
           <Link href="support">সাপোর্ট</Link>
           <Link href="faq">সাধারণ প্রশ্নের উত্তর</Link>
           <Button variant="transparent">Theme</Button>
-          <Link href="/login">Login</Link>
+          <Link href="/login">লগইন</Link>
         </nav>
       </div>
     </header>
